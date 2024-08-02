@@ -5,3 +5,4 @@ Ture    Calendar
 7.30 -- 6.21/22/23
 7.31 -- 6.24(Lab 01)
 8.1  -- 6.25(Disc 02, and start doing hog)
+8.2  -- 6.26(Lab 02, hog phase 1)
