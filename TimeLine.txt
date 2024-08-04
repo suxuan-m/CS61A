@@ -1,4 +1,7 @@
-Ture    Calendar
+"True" is the Real time.
+"Calender" is the videos of the day.
+
+True    Calendar
 7.27 -- 6.18
 7.28 -- 6.19
 7.29 -- 6.20(HW 01)
@@ -7,3 +10,4 @@ Ture    Calendar
 8.1  -- 6.25(Disc 02, and start doing hog)
 8.2  -- 6.26(Lab 02, hog phase 1)
 8.3  -- 6.27(Disc 03, Lab 03 part1, HW 02 part1)
+8.4  -- 6.28/29/30 and 7.1(Lab 03, HW 02, part of hog)
