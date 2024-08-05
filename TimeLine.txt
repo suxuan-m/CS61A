@@ -11,3 +11,4 @@ True    Calendar
 8.2  -- 6.26(Lab 02, hog phase 1)
 8.3  -- 6.27(Disc 03, Lab 03 part1, HW 02 part1)
 8.4  -- 6.28/29/30 and 7.1(Lab 03, HW 02, part of hog)
+8.5  -- 7.2(have a rest...)
