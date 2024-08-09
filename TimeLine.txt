@@ -13,3 +13,4 @@ True    Calendar
 8.4  -- 6.28/29/30 and 7.1(Lab 03, HW 02, part of hog)
 8.5  -- 7.2(have a rest...)
 8.6  -- 7.2
+8.9  -- 7.2(finish hog , Disc 04)
